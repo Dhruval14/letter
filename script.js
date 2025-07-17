@@ -17,7 +17,7 @@ setInterval(createHeart, 500);
 
 // Typewriter effect for multiline message
 const messageLines = [
-  "Reyuu i want you to know that you",
+  "Reyuuu i want you to know that you",
   " mean everything to me ",
   "and that you are very veryyy ",
   "veryyy important to me.",
